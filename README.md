@@ -22,3 +22,5 @@ This project contains two folders: PyBank and ByPoll. Please find the results of
     Raymon Anthony Doane: 3.139% (11,606 votes)
 * Winner: Diana DeGette
 * Conclusion: Diana DeGette won the election decisively with 73.812% of the total votes, significantly outpacing her opponents, Charles Casper Stockham and Raymon Anthony Doane, who received 23.049% and 3.139% of the votes, respectively.
+
+# Please check "Analysis" folder in "ByBank" and "ByPoll" for the printed results in txt format.
